@@ -1,6 +1,6 @@
 # PollutionMap
 
-PollutionMap is an  Arduino based Air Quality Index (AQI) measurement device that can send AQI data to other devices via Bluetooth. It was developed during two days workshop organized by Bottle Technology. Arduino along with Dust Sensor Module - GP2Y1010AU0F and HC-05 Bluetooth Module is used in this project. Server and Client Android apps were also developed to upload and view the AQI data respectively. <a href="https://github.com/karunstha/PollutionMapUserApp"> UserApp source code </a>
+PollutionMap is an  Arduino based Air Quality Index (AQI) measurement device that can send AQI data to other devices via Bluetooth. It was developed during two days Hackathone organized by Bottle Technology. Arduino along with Dust Sensor Module - GP2Y1010AU0F and HC-05 Bluetooth Module is used in this project. Server and Client Android apps were also developed to upload and view the AQI data respectively. <a href="https://github.com/karunstha/PollutionMapUserApp"> UserApp source code </a>
 ## Images
 
 **Hardware Device**

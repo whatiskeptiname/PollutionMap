@@ -20,12 +20,12 @@ PollutionMap is an  Arduino based Air Quality Index (AQI) measurement device tha
 ## Components Used
 
 1. Arduino Uno
-2. Dust Sensor Module - GP2Y1010AU0F
-3. HC-05 Bluetooth Module
-4. Piezo Buzzer
-5. Bread Board
-6. Polar Capacitor 220 µF
-7. Resistor 150 Ω
+1. Dust Sensor Module - GP2Y1010AU0F
+1. HC-05 Bluetooth Module
+1. Piezo Buzzer
+1. Bread Board
+1. Polar Capacitor 220 µF
+1. Resistor 150 Ω
 
 ## Working
 
